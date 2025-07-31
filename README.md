@@ -27,7 +27,7 @@ A modern and responsive weather application built with React.js that fetches rea
       </li>
 
       <li>
-        Humidity
+      Humidity
       </li>
     </ul>
   </li>
