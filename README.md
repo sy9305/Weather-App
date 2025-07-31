@@ -18,17 +18,19 @@ A modern and responsive weather application built with React.js that fetches rea
         Temperature
       </li>
 
-      <li>
-        Weather condition (e.g., sunny, cloudy)
-      </li>
 
-      <li>
-        Wind speed
-      </li>
+<li>
+    Weather condition (e.g., sunny, cloudy)
+  </li>
 
-      <li>
-      Humidity
-      </li>
+  <li>
+    Wind speed      
+  </li>
+
+  <li>
+     Humidity     
+  </li>
+
     </ul>
   </li>
 
