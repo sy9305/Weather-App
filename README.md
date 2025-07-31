@@ -1,7 +1,7 @@
 <h1>🌦️ Weather App</h1>
 A modern and responsive weather application built with React.js that fetches real-time weather data from the WeatherAPI and displays detailed information like temperature, condition, wind speed, and more. Supports both city-based search and current location detection.
 
-🚀 Features
+<h3>🚀 Features</h3>
 🌍 Current Location Weather via Geolocation API
 
 🔍 City Search for weather information
