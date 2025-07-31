@@ -12,24 +12,23 @@ A modern and responsive weather application built with React.js that fetches rea
   </li>
 
   <li>
+    🏙️ Displays:
     <ul>
-      🏙️ Displays:
       <li>
         Temperature
       </li>
+      
+      <li>
+       Weather condition (e.g., sunny, cloudy)
+      </li>
+      
+      <li>
+       Wind speed
+      </li>
 
-
-<li>
-    Weather condition (e.g., sunny, cloudy)
-  </li>
-
-  <li>
-    Wind speed      
-  </li>
-
-  <li>
-     Humidity     
-  </li>
+      <li>
+        Humidity
+     </li>
 
     </ul>
   </li>
