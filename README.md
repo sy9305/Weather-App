@@ -16,8 +16,6 @@ Wind speed
 
 Humidity
 
-AQI (Air Quality Index)
-
 🎨 Dynamic backgrounds based on weather condition
 
 📱 Fully responsive design for mobile and desktop
